@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/brijeshpal/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/brijeshpal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -17,4 +18,8 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/brijeshpal/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/brijeshpal/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
