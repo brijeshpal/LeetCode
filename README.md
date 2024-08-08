@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/brijeshpal/LeetCode/tree/master/0007-reverse-integer) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/brijeshpal/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
