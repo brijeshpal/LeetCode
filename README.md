@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brijeshpal/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/brijeshpal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/brijeshpal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/brijeshpal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brijeshpal/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
