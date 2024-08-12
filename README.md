@@ -29,9 +29,14 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/brijeshpal/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/brijeshpal/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/brijeshpal/LeetCode/tree/master/0069-sqrtx) |
 ## Database
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/brijeshpal/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/brijeshpal/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
