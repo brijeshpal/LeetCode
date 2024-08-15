@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/brijeshpal/LeetCode/tree/master/1258-article-views-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/brijeshpal/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/brijeshpal/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
